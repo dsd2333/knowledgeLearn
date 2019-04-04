@@ -1,4 +1,17 @@
 format 数据类型参考
+
+    "dimension" 尺寸值
+    "integer"   整型值
+    "boolean"   布尔值
+    "color"     颜色值
+    "enum"      枚举值
+    "flag"      位或运算
+    "float"     浮点值
+    "fraction"  百分值
+    "reference" 引用
+    "string"    字符串
+
+
 1. reference：参考某一资源ID。
     （1）属性定义：
 
